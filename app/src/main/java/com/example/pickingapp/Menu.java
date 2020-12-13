@@ -38,6 +38,9 @@ public class Menu extends AppCompatActivity {
         Intent intent = new Intent(this, Storage.class);
         startActivity(intent);
     }
-
+    public void open_help(View view) {
+        Intent intent = new Intent(this, Help.class);
+        startActivity(intent);
+    }
 
 }
