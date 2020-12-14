@@ -39,6 +39,7 @@
         android:id="@+id/button5"
         android:layout_width="234dp"
         android:layout_height="97dp"
+        android:onClick="open_help"
         android:text="Ayuda"
         app:backgroundTint="#1C50A4"
         app:layout_constraintBottom_toBottomOf="parent"
