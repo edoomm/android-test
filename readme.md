@@ -1,0 +1,1 @@
+Primer esquema de diseño que se tuvo para la [app de picking](https://github.com/edoomm/sistema-picking-app)
