@@ -1,0 +1,2 @@
+# Pruebas de conexión entre app y web
+Este repositorio sirve para poder verificar conexión entre su computadora en un [módulo web](https://github.com/edoomm/sistema-picking-web) con su [telefono](https://github.com/edoomm/sistema-picking-app)
